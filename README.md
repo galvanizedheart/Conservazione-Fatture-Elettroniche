@@ -5,7 +5,7 @@ Questo programma è pensato per i commercialisti o lavoratori nel settore al fin
 ## Step 1
 Una volta scaricati i file vi troverete con due componenti, una cartella chiamata gui e un file chiamato Conserva Fatture, quest'ultimo è un collegamento, lo potete mettere ovunque nel vostro PC, la cartella mettela in un posto che vi è comodo perché non sarà necessario aprirla.
 
-In caso il collegamento non funzionasse, cercate nella cartella il file gui.exe e fate partire quello.
+In caso il collegamento non funzionasse, cercate nella cartella il file Conserva Fatture.exe e fate partire quello, ma NON rimuovetelo dalla cartella.
 
 ## Step 2
 Una volta aperto Conserva Fatture vi troverete una finestra di questo tipo:
