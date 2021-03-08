@@ -27,7 +27,3 @@ A questo punto tutto ciò che dovete fare è inserire la Partita Iva del vostro 
 ![CFZIP](https://user-images.githubusercontent.com/79949135/110251158-89898f80-7f7f-11eb-9902-e30bf19a829b.png)
 
 Ed il gioco è fatto! Spero che questa piccola utility vi possa aiutare un po' di più :)
-
-
-## In più
-Se lo desiderate potete inserire la partita iva prima di selezionare la cartella, vi appariranno i file già filtrati!
