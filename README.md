@@ -22,7 +22,7 @@ Adesso la schermata iniziale vi mostrerà a sinistra tutte le fatture .xml e .p7
 
 ![cffile](https://user-images.githubusercontent.com/79949135/110251045-ecc6f200-7f7e-11eb-9920-55284ac45225.png)
 
-A questo punto tutto ciò che dovete fare è inserire la Partita Iva del vostro cliente all'interno del box "Partita IVA", successivamente premete "Zippa" e se il codice è stato scritto correttamente vedrete apparire nella colonna di destra i file zippati:
+A questo punto tutto ciò che dovete fare è premere "Zippa", vedrete apparire nella colonna di destra i file zippati:
 
 ![CFZIP](https://user-images.githubusercontent.com/79949135/110251158-89898f80-7f7f-11eb-9902-e30bf19a829b.png)
 
