@@ -10,7 +10,7 @@ In caso il collegamento non funzionasse, cercate nella cartella il file Conserva
 ## Step 2
 Una volta aperto Conserva Fatture vi troverete una finestra di questo tipo:
 
-![cfhome](https://user-images.githubusercontent.com/79949135/110250733-30206100-7f7d-11eb-9d2a-8191120a01ee.png)
+![cfhome](https://user-images.githubusercontent.com/79949135/110464244-358fbf80-80d3-11eb-9cb7-42de012ff7e5.png)
 
 Cliccate su sfoglia e navigate all'interno di Esplora File fino a trovare la cartella che contiene le vostre fatture, ad esempio io userò la cartella "Fatture":
 
@@ -20,10 +20,10 @@ Cliccate su sfoglia e navigate all'interno di Esplora File fino a trovare la car
 ## Step 3
 Adesso la schermata iniziale vi mostrerà a sinistra tutte le fatture .xml e .p7m presenti nella cartella, escludendo i file "_metaDato.xml", a destra invece verranno mostrati tutti i file .zip già presenti:
 
-![cffile](https://user-images.githubusercontent.com/79949135/110251045-ecc6f200-7f7e-11eb-9920-55284ac45225.png)
+![cffile](https://user-images.githubusercontent.com/79949135/110464280-3de7fa80-80d3-11eb-8179-700afb723d56.png)
 
 A questo punto tutto ciò che dovete fare è premere "Zippa", vedrete apparire nella colonna di destra i file zippati:
 
-![CFZIP](https://user-images.githubusercontent.com/79949135/110251158-89898f80-7f7f-11eb-9902-e30bf19a829b.png)
+![CFZIP](https://user-images.githubusercontent.com/79949135/110464351-50faca80-80d3-11eb-9787-8f3db0cdc9af.png)
 
 Ed il gioco è fatto! Spero che questa piccola utility vi possa aiutare un po' di più :)
